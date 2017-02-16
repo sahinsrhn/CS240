@@ -1,7 +1,7 @@
 # SehirUniCS240
 Exploratory Data Analysis 
 
-Every Week Codes published from here week by week in week folders.
+Every Week Codes published from here week by week in week folders. PLEASE FIRST READ THE README FILES FIRST IN EACH WEEK FOLDER
 
 In every week folder, there are files that you need to run codes.
 
