@@ -1,0 +1,21 @@
+First thing you need to do is downloading repisotory or get week 2 files to your computer,
+
+After you download it, as i told you class here is a usefull link below that gives you information what you need to learn
+
+First of all try to understand what pandas is;
+
+What is pandas?
+https://www.youtube.com/watch?v=yzIMircGU5I
+
+After you watch this there are lots of file in Week 2 file but first there is a how_to.html open it in your browser,
+after you open html file and follow the intsructions, you are able to open Introduction_to_Pandas.ipynb file in ipython notebook.
+There is a overview about the how pandas, quick look at them and try to understand concept, 
+it is not hard because actually they are python codes that you know. Do not try to memorize them 
+because when you use it that will be meaningful for you.
+
+After you look the fundamentals of pandas open Week_2_Exercise.html in your browser at the same time,
+open a new empty jupyter notebook and uncomment and copy codes from html to your notebook that you opened now
+and paste the codes that you copied into the cells and run cells(you can run cells with pressing Shift + Enter or 
+just click the run cell button above the screen as showed in class) and see the outputs.
+
+
